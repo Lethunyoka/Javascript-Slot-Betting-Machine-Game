@@ -1,3 +1,4 @@
+//Lethukuthula Nyoka
 // 1. Despot some money
 // 2. Determine number of lines to bet on
 // 3. Collect a bet amount
